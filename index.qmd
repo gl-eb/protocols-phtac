@@ -1,0 +1,11 @@
+---
+toc: false
+---
+
+# Protocols for Working With *Pseudoalteromonas haloplanktis* TAC125
+
+![A fluorescence microscopy image of Pseudoalteromonas haloplanktis. The unusually elongated cells are either blue (alive) or red (dead)](images/phtac.png)
+
+This site contains a collection of protocols for working with the psychrophilic bacterium *Pseudoalteromonas haloplanktis* TAC125.
+The protocol were written during my PhD at ETH Zurich in the evolutionary microbiology group and will thus contain instructions specific to that lab.
+Protocols are provided as is without any guarantees.

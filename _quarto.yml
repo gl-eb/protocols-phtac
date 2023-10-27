@@ -1,0 +1,29 @@
+date: today
+
+project:
+  type: website
+  resources: resources
+
+website:
+  title: "PhTAC125 Protocols"
+  site-url: "https://phtac125.glebsite.ch"
+  repo-url: "https://github.com/gl-eb/Protocols-PhTAC125"
+  description:
+    This site contains a collection of protocols for working with the psychrophilic bacterium *Pseudoalteromonas haloplanktis* TAC125.
+    The protocol were written during my PhD at ETH Zurich in the evolutionary microbiology group and will thus contain instructions specific to that lab.
+    Protocols are provided as is without any guarantees.
+  sidebar:
+    title: "*Ph*TAC125 Protocols"
+    style: "floating"
+    search: true
+    contents:
+      - media.md
+      - plate_cleaning.md
+      - freezer_stocks.md
+      - molecular_assays.md
+
+format:
+  html:
+    lang: en
+    theme: cosmo
+    toc: true
