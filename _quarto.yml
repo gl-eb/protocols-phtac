@@ -21,6 +21,9 @@ website:
       - plate_cleaning.md
       - freezer_stocks.md
       - molecular_assays.md
+  navbar:
+    title: "*Ph*TAC125 Protocols"
+    search: true
 
 format:
   html:
