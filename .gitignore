@@ -1,0 +1,4 @@
+# Quarto files
+/.quarto/
+/_site/
+/.luarc.json
