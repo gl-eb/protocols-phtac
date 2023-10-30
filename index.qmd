@@ -4,14 +4,13 @@ date: ""
 toc: false
 title-block-banner: images/phtac_rdbl.png
 title-block-banner-color: white
-sidebar: false
 listing:
     type: grid
     grid-columns: 2
     sort: filename
     image-placeholder: images/phtac_green.png
     fields: [title, subtitle]
-format: html
+format-links: false
 ---
 
 

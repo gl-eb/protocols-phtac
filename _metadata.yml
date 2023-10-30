@@ -1,0 +1,9 @@
+date: today
+
+repo-url: "https://github.com/gl-eb/protocols-phtac"
+
+format:
+  html:
+    toc: true
+  pdf:
+    author: Gleb Ebert
