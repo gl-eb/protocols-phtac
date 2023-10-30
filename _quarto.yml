@@ -28,7 +28,9 @@ website:
 format:
   html:
     lang: en
-    theme: cosmo
+    theme:
+      - litera
+      - style.scss
     toc: true
   pdf:
     author: Gleb Ebert
