@@ -6,8 +6,8 @@ project:
 
 website:
   title: "PhTAC125 Protocols"
-  site-url: "phtac.glebsite.ch"
-  repo-url: "github.com/gl-eb/protocols-phtac"
+  site-url: "https://www.glebsite.ch/protocols-phtac/"
+  repo-url: "https://github.com/gl-eb/protocols-phtac"
   description:
     This site contains a collection of protocols for working with the psychrophilic bacterium *Pseudoalteromonas haloplanktis* TAC125.
     The protocol were written during my PhD at ETH Zurich in the evolutionary microbiology group and will thus contain instructions specific to that lab.
