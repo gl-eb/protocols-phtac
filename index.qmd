@@ -11,9 +11,12 @@ listing:
     sort: filename
     image-placeholder: images/phtac_green.png
     fields: [title, subtitle]
+format: html
 ---
 
 
 This site contains a collection of protocols for working with the psychrophilic bacterium *Pseudoalteromonas haloplanktis* TAC125.
 The protocol were written during my PhD at ETH Zurich in the evolutionary microbiology group and will thus contain instructions specific to that lab.
 Protocols are provided as is without any guarantees.
+
+PDF versions of all protocols are available under the table of contents on the right on each protocol's subpage.

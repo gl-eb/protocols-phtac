@@ -30,3 +30,5 @@ format:
     lang: en
     theme: cosmo
     toc: true
+  pdf:
+    author: Gleb Ebert
