@@ -8,3 +8,39 @@ format:
     toc-location: left
   pdf:
     author: Gleb Ebert
+    papersize: a4
+    geometry:
+    - top=20mm
+    - bottom=25mm
+    - left=15mm
+    - right=15mm
+    lang: en
+    mainfont: "DejaVu Serif"
+    fontsize: "10"
+    linkcolor: ForestGreen
+    filecolor: ForestGreen
+    citecolor: ForestGreen
+    urlcolor: ForestGreen
+    toccolor: ForestGreen
+    header-includes: |-
+        % allow deeply nested unnumbered lists
+        \usepackage{enumitem}
+        \setlistdepth{9}
+        \setlist[itemize,1]{label=\textbullet}
+        \setlist[itemize,2]{label=\textminus}
+        \setlist[itemize,3]{label=\textasteriskcentered}
+        \setlist[itemize,4]{label=$\cdot$}
+        \setlist[itemize,5]{label=$\cdot$}
+        \setlist[itemize,6]{label=$\cdot$}
+        \setlist[itemize,7]{label=$\cdot$}
+        \setlist[itemize,8]{label=$\cdot$}
+        \setlist[itemize,9]{label=$\cdot$}
+        \renewlist{itemize}{itemize}{9}
+        % allow adding headers and footers
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+    include-before: |-
+        % add header with author name and date as well as footer with page number
+        \fancyhead[R]{\small \ttfamily Gleb Ebert - \today}
+        \fancyfoot[C]{\thepage}
