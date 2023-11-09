@@ -1,5 +1,5 @@
 ---
-subtitle: "Version 1.4"
+subtitle: "Version 1.5"
 title: "Media preparation"
 ---
 
@@ -7,7 +7,7 @@ title: "Media preparation"
 ## General notes on autoclaving
 
 - Place lid on bottle, screw until it starts gripping and then turn it back a full rotation. Then tape the lid in this position with a piece of autoclaving tape. This is to ensure that expanding gases can escape the bottle and it doesn't explode
-- We usually run a short 15/20 minute liquid cycle (number 006), but longer liquid cycles are permissible
+- We usually run a short 15/20 minute autoclave cycle for liquids (number 006), but longer liquid cycles are permissible
 
 ## Minimal Marine Sea Water (MSW) + D-Gluconic Acid 0.1% (1 liter)
 
@@ -23,11 +23,11 @@ title: "Media preparation"
 3. Adjust pH to 7
    1. Turn on pH meter, take electrode out of storage buffer, rinse with MilliQ water and carefully dry with lab wipes
    2. While stirring, lower the electrode into the liquid medium and press the measure button
-   3. Add NaOH slowly until the pH reaches 7 (6.95 - 7.05 are permissible). 1000 mL medium require ~ 1000 uL of NaOH
-   4. When done, rinse and dry the electrode before putting in back into the storage solution and turninig off the pH meter
+   3. Add NaOH slowly until the pH reaches 7 (6.95 - 7.05 are permissible). 1000 mL medium require ~ 1000 uL of NaOH (5M)
+   4. When done, rinse and dry the electrode before putting in back into the storage solution and turning off the pH meter
 4. Sterile filtration
    1. Inside a sterile hood, screw the sterile filter onto the autoclaved empty bottle
-   2. Back in J18, turn on the vacuum pump and stick the hose onto the sterile filter nozzle
+   2. Turn on the vacuum pump and stick the hose onto the sterile filter nozzle
    3. Add the liquid medium (and any remaining autoclaved water) to the sterile filter
    4. First take the hose off the nozzle, then turn off the vacuum pump
    5. Finally, screw off the sterile filter in a hood and close the bottle with its cap
@@ -56,8 +56,8 @@ title: "Media preparation"
    3. Add NaOH slowly until the pH reaches 7 (6.95 - 7.05 are permissible). 1000 mL medium require ~ 1000 uL of NaOH
    4. When done, rinse and dry the electrode before putting in back into the storage solution and turninig off the pH meter
 5. Sterile filtration
-   1. Inside a sterile, screw the sterile filter onto the autoclaved bottle containing 800 mL agar
-   2. Back in J18, turn on the vacuum pump and stick the hose onto the sterile filter nozzle
+   1. Inside a sterile hood, screw the sterile filter onto the autoclaved bottle containing 800 mL agar
+   2. Turn on the vacuum pump and stick the hose onto the sterile filter nozzle
    3. Add the liquid medium (and any remaining autoclaved water) to the sterile filter
    4. First take the hose of the nozzle, then turn off the vacuum pump
    5. Finally, screw off the sterile filter in a hood and close the bottle with its cap. Mix well by swirling and inverting
