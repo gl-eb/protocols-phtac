@@ -1,4 +1,5 @@
 ---
+version: "0.2"
 subtitle: "Version 0.2"
 title: "Deep Well Plate Cleaning"
 ---

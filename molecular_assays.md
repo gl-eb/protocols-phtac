@@ -1,4 +1,5 @@
 ---
+version: "1.7"
 subtitle: "Version 1.7"
 title: "Molecular Assays"
 ---

@@ -1,4 +1,5 @@
 ---
+version: "1.6"
 subtitle: "Version 1.6"
 title: "Media preparation"
 ---

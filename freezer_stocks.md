@@ -1,4 +1,5 @@
 ---
+version: "1.5"
 subtitle: "Version 1.5"
 title: "Freezer Stocks"
 ---
