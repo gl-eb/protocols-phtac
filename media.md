@@ -1,5 +1,5 @@
 ---
-subtitle: "Version 1.5"
+subtitle: "Version 1.6"
 title: "Media preparation"
 ---
 
@@ -81,6 +81,28 @@ title: "Media preparation"
 1. Add 15 g of BactoAgar to roughly 900mL of MilliQ
 2. Add 37.4 g of Marine broth 2216 powder the beaker. Once dissolved (excluding the agar), add to 1 L bottle
 3. After autoclaving, store bottle in 50°C incubator to prevent solidifying
+
+## LB medium (1 liter)
+
+This is the Miller formulation of LB. For Lennox use 5 g of NaCl and for Luria use 0.5 g of NaCl
+
+1. Dissolve the following ingredients in 800 mL of MilliQ
+   - 10 g tryptone
+   - 5 g yeast extract
+   - 10 g NaCl
+2. Add MilliQ up to a total volume of 1 L
+3. Move medium to bottle. If preparing solid medium, add 15 g of agar
+4. After autoclaving, store bottle at room temperature
+
+## TYP medium (1 liter)
+
+1. Dissolve the following ingredients in 800 mL of MilliQ
+   - 16 g tryptone
+   - 16 g yeast extract
+   - 10 g NaCl
+2. Add MilliQ up to a total volume of 1 L
+3. Move medium to bottle. If preparing solid medium, add 15 g of agar
+4. After autoclaving, store bottle at room temperature
 
 ## Casitone-Tris (CTT) liquid (1 liter)
 

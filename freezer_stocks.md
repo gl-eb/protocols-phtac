@@ -1,5 +1,5 @@
 ---
-subtitle: "Version 1.4"
+subtitle: "Version 1.5"
 title: "Freezer Stocks"
 ---
 
@@ -9,7 +9,7 @@ title: "Freezer Stocks"
 1. Grow single clone / population in MSW+D-Gluc. for ~2 days
 2. Prepare two replicate stocks (one working and one backup stock) using one of the following recipes (all result in final glycerol concentrations of about 20%; the choice comes down to personal preferences):
    - Add 500 uL glycerol 60% and 1000 uL liquid culture to cryotubes
-   - Add 300 uL glycerol 80% using a multipipette with the 10 mL tip (one full tip is enough for 33 cryotubes) and 1000 uL liquid culture to cryotubes
+   - Add 400 uL glycerol 80% using a multipipette with the 10 mL tip (one full tip is enough for 33 cryotubes) and 1000 uL liquid culture to cryotubes
 3. Mix stocks well by vortexing and inverting just before freezing at -80°C
 4. Add new boxes to spreadsheet on freezer door and keep track which stocks are where
 
