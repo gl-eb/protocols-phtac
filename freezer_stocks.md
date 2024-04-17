@@ -1,9 +1,8 @@
 ---
-version: "1.5"
+title: Freezer Stocks
 subtitle: "Version 1.5"
-title: "Freezer Stocks"
+version: "1.5"
 ---
-
 
 ## Glycerol Stocks
 

@@ -1,9 +1,8 @@
 ---
-version: "0.2"
+title: Deep Well Plate Cleaning
 subtitle: "Version 0.2"
-title: "Deep Well Plate Cleaning"
+version: "0.2"
 ---
-
 
 This is Roman Gort's protocol to clean and sterilise reusable deep well plates
 

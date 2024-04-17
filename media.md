@@ -1,9 +1,8 @@
 ---
-version: "1.6"
+title: Media preparation
 subtitle: "Version 1.6"
-title: "Media preparation"
+version: "1.6"
 ---
-
 
 ## General notes on autoclaving
 

@@ -1,9 +1,8 @@
 ---
-version: "1.7"
+title: Molecular Assays
 subtitle: "Version 1.7"
-title: "Molecular Assays"
+version: "1.7"
 ---
-
 
 ## PCR
 
