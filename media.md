@@ -17,9 +17,9 @@ version: "1.6"
    - 1.0g KH~2~PO~4~
    - 1.0g H~4~N~2~O~3~
    - 10.0g NaCl
-   - 0.2g MgSO~4~\cdot7H~2~O
-   - 10mg FeSO~4~\cdot7H~2~O
-   - 10mg CaCl~2~\cdot2H~2~O
+   - 0.2g MgSO~4~ · 7H~2~O
+   - 10mg FeSO~4~ · 7H~2~O
+   - 10mg CaCl~2~ · 2H~2~O
 3. Adjust pH to 7
    1. Turn on pH meter, take electrode out of storage buffer, rinse with MilliQ water and carefully dry with lab wipes
    2. While stirring, lower the electrode into the liquid medium and press the measure button
@@ -47,9 +47,9 @@ version: "1.6"
    - 1.0g KH~2~PO~4~
    - 1.0g H~4~N~2~O~3~
    - 10.0g NaCl
-   - 0.2g MgSO~4~\cdot7H~2~O
-   - 10mg FeSO~4~\cdot7H~2~O
-   - 10mg CaCl~2~\cdot2H~2~O
+   - 0.2g MgSO~4~ · 7H~2~O
+   - 10mg FeSO~4~ · 7H~2~O
+   - 10mg CaCl~2~ · 2H~2~O
 4. Adjust pH to 7
    1. Turn on pH meter, take electrode out of storage buffer, rinse with MilliQ water and carefully dry with lab wipes
    2. While stirring, lower the electrode into the liquid medium and press the measure button
@@ -119,7 +119,7 @@ This is the Miller formulation of LB. For Lennox use 5 g of NaCl and for Luria u
 Instructions according to [Sigma](https://www.sigmaaldrich.com/CH/de/support/calculators-and-apps/10x-phosphate-buffered-saline)
 
 1. Dissolve the following components in 900 mL MilliQ:
-   - 17.8 g of Na~2~HPO~4~\cdot2H~2~O
+   - 17.8 g of Na~2~HPO~4~ · 2H~2~O
    - 2.4 g of KH~2~PO~4~
    - 80 g of NaCl
    - 2 g of KCl

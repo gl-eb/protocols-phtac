@@ -1,7 +1,7 @@
 ---
 title: Molecular Assays
-subtitle: "Version 1.7"
-version: "1.7"
+subtitle: "Version 1.9"
+version: "1.9"
 ---
 
 ## PCR
@@ -17,13 +17,15 @@ Protocol adapted Macarena Toll-Riera and Promega
 2. Incubate at 95°C for 10 minutes in heating block
 3. Centrifuge at maximum speed for 5 minutes
 4. Store at 4°C
-5. Perform PCR using the GoTaq G2 Green Master Mix (includes most reagents needed for PCR and a gel)
-   1. Prepare a master mix for n + 1 reactions of 25 µL each
-      - 12.5 µL GoTaq G2 Green Master Mix
-      - 1.25 µL forward primer (10 µM)
-      - 1.25 µL reverse primer (10 µM)
-      - 8.75 µL nuclease-free water
-   2. Add 23.75 µL of master mix to PCR tubes and add 1.25 µL DNA template to each
+5. Perform PCR using Promega's GoTaq reagents
+   1. Prepare a master mix for n + 1 reactions of 25 µL each. This master mix will have a final primer concentration of 200 nM. Primer and water volume can be adjusted if necessary, also to accomodate more DNA template volume
+      - 5.00 µL 5X GoTaq Green Buffer
+      - 0.50 µL dNTP Mix (10 µM)
+      - 0.125 µL GoTaq G2 Polymerase
+      - 0.50 µL forward primer (10 µM)
+      - 0.50 µL reverse primer (10 µM)
+      - 18.00 µL nuclease-free water
+   2. Add 24.00 µL of master mix to PCR tubes and add 1.00 µL DNA template to each
    3. Gently vortex and then briefly centrifuge reactions
    4. Start PCR program (cycle through steps 2-4 30 times; this will take just under 2 hours)
       1. Initial Denaturation for 2 min at 95°C
@@ -48,26 +50,22 @@ Protocol adapted Macarena Toll-Riera and Promega
 1. Perform PCR according to [PCR]
    - Use one of the following primer pairs. Melting temperatures according to the [Promega calculator](https://ch.promega.com/resources/tools/biomath/tm-calculator/) specifically for use with GoTaq G2 Green Master Mix and 200 nM primers
 
-     | Primer Pair         | Specificity                         | Source                                     |
-     | --- | ----- | ---- |
-     | 16s_fw + 16s_rv     | *Ph*TAC125 & *E. coli*              | Toll-Riera et al. 2022                     |
-     | 16s_fw_2 + 16s_rv_2 | *Ph*TAC125                          | Gleb Ebert                                 |
-     | F27 + R1525         | universal, two bands for *Ph*TAC125 | Lane et al. 1991, Stackebrandt et al. 1993 |
+     | Primer Pair     | Specificity                         | Source                                     |
+     | :- | :--- | :--- |
+     | 16s_fw + 16s_rv | *Ph*TAC125 & *E. coli*              | Toll-Riera et al. 2022                     |
+     | F27 + R1525     | universal, two bands for *Ph*TAC125 | Lane et al. 1991, Stackebrandt et al. 1993 |
 
-     | Primer Pair         | Annealing \[°C\] | Product \[bp\] | Elongation \[s\] |
-     | ------------------- | ---------------: | -------------: | ---------------: |
-     | 16s_fw + 16s_rv     |               60 |           1008 |               60 |
-     | 16s_fw_2 + 16s_rv_2 |               60 |            946 |               60 |
-     | F27 + R1525         |               57 |           1528 |               90 |
+     | Primer Pair     | Annealing \[°C\] | Product \[bp\] | Elongation \[s\] |
+     | :-------------- | ---------------: | -------------: | ---------------: |
+     | 16s_fw + 16s_rv |               60 |           1008 |               60 |
+     | F27 + R1525     |               57 |           1528 |               90 |
 
-     | Name     | Sequence               | T~m~ \[°C\] |
-     | -------- | ---------------------- | ----------: |
-     | 16s_fw   | GATCATGGCTCAGATTGAACGC |          65 |
-     | 16s_rv   | AGGCACCAAACCATCTCTGG   |          65 |
-     | 16s_fw_2 | CCACACTGGGACTGAGACAC   |          65 |
-     | 16s_rv_2 | GCACTCTGTATGCGCCATTG   |          65 |
-     | F27      | AGAGTTTGATCCTGGCTCAG   |          62 |
-     | R1525    | AAGGAGGTGATCCAGCCGCA   |          69 |
+     | Primer | Sequence               | T~m~ \[°C\] |
+     | :----- | :--------------------- | ----------: |
+     | 16s_fw | GATCATGGCTCAGATTGAACGC |          65 |
+     | 16s_rv | AGGCACCAAACCATCTCTGG   |          65 |
+     | F27    | AGAGTTTGATCCTGGCTCAG   |          62 |
+     | R1525  | AAGGAGGTGATCCAGCCGCA   |          69 |
 
 2. PCR cleanup according to one of the following options:
    - Use the Promega Wizard SV Gel and PCR Cleanup System or the Qiagen QIAquick PCR Purification Kit according to the respective manufacturer protocols. Elute with 30 µL of nuclease free water
@@ -91,3 +89,28 @@ Protocol adapted Macarena Toll-Riera and Promega
    - 3 µL 20 µM primer (just one, either forward or reverse)
 6. Add Microsynth label to tube and register samples online. Print out order summary and package it in a clear plastic bag together with the samples
 7. Bring samples to Microsynth pickup point at the main entrance of the LFV building
+
+## Additional Primers
+
+Melting temperatures according to the [Promega calculator](https://ch.promega.com/resources/tools/biomath/tm-calculator/) specifically for use with GoTaq G2 Green Master Mix and 200 nM primers
+
+| Primer Pair             | Specificity        | Source              |
+| :---------------------- | :----------------- | :------------------ |
+| 398078_fw + 398078_rv   | *Ph*TAC125         | Macarena Toll-Riera |
+| Ml_rpoB_fw + Ml_rpoB_rv | *Micrococcus* spp. | Huang et al. 2019   |
+
+| Primer Pair             | Annealing \[°C\] | Product \[bp\] | Elongation \[s\] |
+| :---------------------- | ---------------: | -------------: | ---------------: |
+| 398078_fw + 398078_rv   |               58 |            346 |               30 |
+| Ml_rpoB_fw + Ml_rpoB_rv |               58 |            891 |               60 |
+
+| Primer     | Sequence               | T~m~ \[°C\] |
+| :--------- | :--------------------- | ----------: |
+| 398078_fw  | CATTTACTTACAGGGGCTCTGG |        62.1 |
+| 398078_rv  | GCTCCGTGATTTCATCTCGC   |        60.5 |
+| Ml_rpoB_fw | ATGAACGCGACGAGGAGGTT   |          67 |
+| Ml_rpoB_rv | GTTCTTCGGCACCTC**S**C  |       63-64 |
+
+## References
+
+- Huang, C.-H. et al. Reclassification of Micrococcus aloeverae and Micrococcus yunnanensis as later heterotypic synonyms of Micrococcus luteus. *Int J Syst Evol Microbiol* 69, 3512–3518 (2019).
