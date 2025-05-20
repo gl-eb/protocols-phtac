@@ -1,8 +1,6 @@
 ---
 title: Protocols for Working With *Pseudoalteromonas haloplanktis* TAC125
 date: ""
-toc: false
-toc-location: body
 title-block-banner: images/phtac_rdbl.png
 title-block-banner-color: white
 listing:
