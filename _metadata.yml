@@ -5,7 +5,7 @@ repo-url: "https://github.com/gl-eb/protocols-phtac"
 format:
   html:
     toc: true
-    toc-location: left
+    toc-location: right
   minimal-doc-typst:
     author: Gleb Ebert
     titleinheader: true
