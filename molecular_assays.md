@@ -6,7 +6,7 @@ version: "1.9"
 
 ## PCR
 
-Protocol adapted Macarena Toll-Riera and Promega
+Protocol adapted from Macarena Toll-Riera and Promega
 
 1. Harvest bacterial cells to run PCR on
    - Liquid culture:
